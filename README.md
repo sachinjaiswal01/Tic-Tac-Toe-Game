@@ -27,5 +27,3 @@ Your feedback is valuable! If you have any suggestions or encounter any issues, 
 Have fun playing Tic Tac Toe and may the best strategist win!
 
 --- 
-
-Feel free to adjust and expand upon this README as needed!
