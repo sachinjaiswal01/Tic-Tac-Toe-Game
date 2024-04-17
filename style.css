@@ -33,13 +33,19 @@ body{
     box-shadow: 0 0 1rem rgba(1, 2, 2, 0.6);
     font-size: 8vmin;
     color: #a1087b;
-    background-color: #A8BCA1;
+    background-color: #ADBCA5;
+    
+    cursor: pointer;
+}
+
+.box:hover{
+    background-color: #76818E; 
 }
 
 .reset-btn{
     padding: 0.8rem;
     border: none;
-    color: #f50404;
+    color: dark;
     border-radius: 7px;
     font-size: 1.2rem;
     background-color: #BEEDAA;
@@ -47,10 +53,16 @@ body{
     margin-top: 3rem;
     margin-bottom: 1rem;
 }
+.reset-btn:hover{
+    background-color: #76818E; 
+}
+#new-btn:hover{
+    background-color: #76818E; 
+}
 #new-btn{
     padding: 0.8rem;
     border: none;
-    color: #f50404;
+    color: dark;
     border-radius: 7px;
     font-size: 1.2rem;
     background-color: #BEEDAA;
@@ -84,9 +96,12 @@ body{
 .turnX{
     color: #CF4D6F;
 }
+
+  
 .disc{
     padding: 10px;
 }
+
 .disc h4{
     padding: 10px;
 }
